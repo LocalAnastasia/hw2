@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types';
 
 export class TodoListLink extends Component {
-    render() {        
+    render() {      
         return (
             <a 
                 className='home_list_link'
